@@ -2,6 +2,6 @@
 
 The directory contains:
 
--Assignment-1
--Assingment-2
--Project
+- Assignment-1
+- Assingment-2
+- Project
